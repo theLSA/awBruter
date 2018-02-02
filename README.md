@@ -21,20 +21,11 @@ python awBruter.py -h<br/>
 python awBruter.py -u "http://192.168.43.173/onewordshell.asp"
 ![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter01.png)<br/>
 <br/>
-python awBruter.py -u "http://192.168.43.173/onewordshell.asp" -v
-![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter02.png)<br/>
-<br/>
-python awBruter.py -u "http://192.168.43.173/onewordshell.aspx" -f ../dic0.txt -v
-![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter03.png)<br/>
-<br/>
 python awBruter.py -u "http://192.168.43.173/onewordshell.aspx" -v
 ![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter04.png)<br/>
 <br/>
 python awBruter.py -u "http://192.168.43.173:8999/onewordshell.php" -f ../dic0.txt -v
 ![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter05.png)<br/>
-<br/>
-python awBruter.py -u "http://192.168.43.173:8999/onewordshell.php"
-![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter06.png)<br/>
 <br/>
 <br/>
 
