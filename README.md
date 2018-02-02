@@ -1,9 +1,9 @@
-awBruter - 千倍速一句话木马密码爆破工具
+awBruter - 千倍速一句话密码爆破工具
 ===
 <br/>
 
 # 概述<br/>
-简洁的千倍速一句话木马密码爆破工具，支持apache,iis(php,asp,apsx),原理就是apache和iis支持多参数提交。<br/>
+简洁的千倍速一句话密码爆破工具，支持apache,iis(php,asp,apsx),原理就是apache和iis支持多参数提交。<br/>
 <br/>
 <br/>
 
