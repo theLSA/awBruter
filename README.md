@@ -7,13 +7,13 @@ awBruter - 千倍爆破一句话木马密码工具
 <br/>
 
 
-#需求<br/>
+# 需求<br/>
 requests<br/>
 <br/>
 <br/>
 
 
-#快速开始<br/>
+# 快速开始<br/>
 python awBruter.py -h<br/>
 ![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter00.png)<br/>
 <br/>
@@ -37,14 +37,14 @@ python awBruter.py -u "http://192.168.43.173:8999/onewordshell.php"
 <br/>
 <br/>
 
-#To Do List<br/>
+# To Do List<br/>
 1.增加随机user-agent,代理ip等附加功能<br/>
 2.增加jsp一句话的密码爆破<br/>
 <br/>
 <br/>
 
-#反馈<br/>
-*博客: http://www.lsablog.com<br/>
-*email: lsasguge196@gmail.com<br/> 
+# 反馈<br/>
+* 博客: http://www.lsablog.com<br/>
+* email: lsasguge196@gmail.com<br/> 
 	2894400469@qq.com<br/>
-*issue:
+* issue:
