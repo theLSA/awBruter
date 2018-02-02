@@ -48,4 +48,4 @@ python awBruter.py -u "http://192.168.43.173:8999/onewordshell.php"
 * 博客: http://www.lsablog.com<br/>
 * email: lsasguge196@gmail.com<br/> 
            2894400469@qq.com<br/>
-* issue:
+* issue:https://github.com/theLSA/awBruter/issues
