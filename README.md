@@ -24,10 +24,10 @@ python awBruter.py -u "http://192.168.43.173/onewordshell.asp"
 python awBruter.py -u "http://192.168.43.173/onewordshell.asp" -v
 ![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter02.png)<br/>
 <br/>
-python awBruter.py -u "http://192.168.43.173/onewordshell.aspx" -v
+python awBruter.py -u "http://192.168.43.173/onewordshell.aspx" -f ../dic0.txt
 ![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter03.png)<br/>
 <br/>
-python awBruter.py -u "http://192.168.43.173/onewordshell.aspx" -f ../dic0.txt -v
+python awBruter.py -u "http://192.168.43.173/onewordshell.aspx" -v
 ![](https://github.com/theLSA/awBruter/raw/master/demo/awbruter04.png)<br/>
 <br/>
 python awBruter.py -u "http://192.168.43.173:8999/onewordshell.php" -f ../dic0.txt -v
@@ -47,5 +47,5 @@ python awBruter.py -u "http://192.168.43.173:8999/onewordshell.php"
 # 反馈<br/>
 * 博客: http://www.lsablog.com<br/>
 * email: lsasguge196@gmail.com<br/> 
-         2894400469@qq.com<br/>
+          2894400469@qq.com<br/>
 * issue:
